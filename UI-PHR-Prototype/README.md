@@ -1,7 +1,7 @@
 
-  # Servizio Sanità Digitale
+  # UI-PHR-Prototype
 
-  This is a code bundle for Servizio Sanità Digitale. The original project is available at https://focus-marine-21673855.figma.site
+  This is a code bundle for UI-PHR-Prototype. The  project is available at https://focus-marine-21673855.figma.site
 
   ## Running the code
 
